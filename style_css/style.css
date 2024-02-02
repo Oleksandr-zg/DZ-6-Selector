@@ -1,0 +1,53 @@
+* {
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.space {
+    text-indent: 30px;
+}
+
+.container {
+    padding: 0px 40% 25px 20px;
+    font-size: 18px;
+}
+
+pre {
+    font-size: 20px;
+    margin: 0px 50px 0px;
+}
+
+span {
+    color: red;
+}
+
+span.color_blue {
+    color: blue;
+}
+
+.color_green {
+    color: green;
+}
+
+a#color_blueviolet {
+    color: blueviolet;
+}
+
+#color_firebrick {
+    color: firebrick;
+}
+
+h2, h3, h4, h5 {
+    color: brown;
+}
+
+p span {
+    color: coral;
+}
+
+a:hover {
+    color: red;
+}
