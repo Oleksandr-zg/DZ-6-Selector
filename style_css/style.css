@@ -17,7 +17,7 @@ h1 {
 
 pre {
     font-size: 20px;
-    margin: 0px 50px 0px;
+    /* margin: 0px 50px 0px 0%; */
 }
 
 span {
@@ -50,4 +50,10 @@ p span {
 
 a:hover {
     color: red;
+}
+
+span[title] {
+    color: fuchsia;
+    font-size: 30px;
+
 }
